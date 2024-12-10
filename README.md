@@ -2,7 +2,7 @@ Here's a rewritten version of your instructions for clarity and structure:
 
 ---
 
-# Digital Portfolio Builder - Instructions to Run the Web Application
+# Digital Portfolio Builder  
 
 ## Backend
 
