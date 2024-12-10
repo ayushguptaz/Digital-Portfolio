@@ -9,7 +9,7 @@ Here's a rewritten version of your instructions for clarity and structure:
 1. Open a terminal.
 2. Navigate to the **backend** directory:
     ```bash
-    cd DigitalPortfolioBuilder/backend/
+    cd DigitalPortfolio/backend/
     ```
 3. Start the backend server:
     ```bash
